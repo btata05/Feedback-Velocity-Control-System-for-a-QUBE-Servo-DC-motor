@@ -1,0 +1,2 @@
+# Feedback-Velocity-Control-System-for-a-QUBE-Servo-DC-motor
+Designing a feedback velocity control system for a DC motor using the QUBE Servo motor. The system must reach a desired angular velocity of 12 rad/s while maintaining zero steady-state error. In addition, the system must satisfy transient response requirements of a percentage overshoot of 9% or less and a settling time of 0.7 seconds or less. 
